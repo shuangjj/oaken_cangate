@@ -1,0 +1,29 @@
+{
+  "name": "oaken_cangate",
+  "version": "1.0.0",
+  "description": "Oaken CAN gateway library",
+  "main": "cangate.js",
+  "dependencies": {
+    "bluetooth-obd": "^0.2.4",
+    "crc16-ccitt-node": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuangjj/oaken_cangate.git"
+  },
+  "keywords": [
+    "Oaken",
+    "CAN",
+    "Gateway"
+  ],
+  "author": "Lexon <lexonleed@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shuangjj/oaken_cangate/issues"
+  },
+  "homepage": "https://github.com/shuangjj/oaken_cangate#readme"
+}
